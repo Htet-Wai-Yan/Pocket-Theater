@@ -1,4 +1,4 @@
-# movieApp
+# Pocket Theater
 The idea comes from google play movie tab and created this as an exercise for Flutter Development Course
 
 The first version of Pocket Theater App
