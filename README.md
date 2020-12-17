@@ -18,4 +18,4 @@ To debug and run the project -
 
 The app in action is here - 
 
-![Pocket Theater](movieApp.gif)
+![Pocket Theater](movieApp.gif.mp4)
