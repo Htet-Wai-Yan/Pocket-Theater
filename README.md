@@ -16,5 +16,4 @@ To debug and run the project -
 2. copy / replace lib, images and the pubspec.yaml file to your project folder.
 3. press F5 key or Run project.
 
-The app in action is here - 
 
